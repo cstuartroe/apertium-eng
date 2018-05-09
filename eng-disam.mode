@@ -1,4 +1,4 @@
 
       
-    lt-proc -w '/home/rbuckle1/ling073/ling073-dan-eng/apertium-eng/eng.automorf.bin' | cg-conv -a -l| vislcg3 --trace -g '/home/rbuckle1/ling073/ling073-dan-eng/apertium-eng/apertium-eng.eng.rlx' 
+    lt-proc -w '/home/rbuckle1/ling073/ApertiumDictionaryBuilder/developed_resources/apertium-eng/eng.automorf.bin' | cg-conv -a -l| vislcg3 --trace -g '/home/rbuckle1/ling073/ApertiumDictionaryBuilder/developed_resources/apertium-eng/apertium-eng.eng.rlx' 
   
